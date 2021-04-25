@@ -1,0 +1,5 @@
+/Users/eduardoreis/Documents/GitHub/22DeAbril/22DeAbril/bin/Debug/22DeAbril.exe
+/Users/eduardoreis/Documents/GitHub/22DeAbril/22DeAbril/bin/Debug/22DeAbril.pdb
+/Users/eduardoreis/Documents/GitHub/22DeAbril/22DeAbril/obj/Debug/Observer.csproj.CoreCompileInputs.cache
+/Users/eduardoreis/Documents/GitHub/22DeAbril/22DeAbril/obj/Debug/22DeAbril.exe
+/Users/eduardoreis/Documents/GitHub/22DeAbril/22DeAbril/obj/Debug/22DeAbril.pdb
